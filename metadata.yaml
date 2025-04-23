@@ -1,0 +1,33 @@
+_repo: Alexander-Balfour-b-a-memoir_75768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lundie, R. H. (Robert Henry)
+    alias: Lundie, Robert Henry
+    birthdate: 1824
+    deathdate: 1885
+    gutenberg_agent_id: '58133'
+    url: http://www.gutenberg.org/2009/agents/58133
+description: ''
+gutenberg_issued: '2025-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75768'
+language: en
+pgterms:marc905: 20220526033534lundie
+pgterms:marc906: '1890'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJames Nisbet & Co., $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Biography'
+- !lcsh 'Liverpool (England) -- Biography'
+- !lcsh 'Balfour, Alexander, 1824-1886'
+- !lcc 'CT'
+- GITenberg
+title: 'Alexander Balfour : $b a memoir'
+url: http://www.gutenberg.org/ebooks/75768
